@@ -21,7 +21,7 @@
 <p align="left">
 Soy un estudiante de SMR en Zaragoza <br><br>
 <!-- - 🔭 I’m working as ...<br> -->
-- 📚 Actualmente estoy aprendiendo POO en python<br>
+- 📚 Actualmente estoy aprendiendo microservicios con python<br>
 - ⚡ En mi tiemepo libre me gusta mejorar mis habilidades<br>
 - 🥋 Practicante de Kyokushin
 </p>
