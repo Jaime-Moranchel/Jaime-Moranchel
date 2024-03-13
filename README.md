@@ -72,7 +72,7 @@ Soy un estudiante de SMR en Zaragoza <br><br>
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Correo%20personal&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Correo%20personal&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" href="mailto:jaimemoranchelpina@gmail.com?/>
 </div>
 
 ###
