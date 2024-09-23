@@ -66,8 +66,8 @@ Soy un estudiante de SMR en Zaragoza <br><br>
 </div>
 
 ###
-
-<h3 align="left">📫 Contáctame:</h3>
+<!--
+ <h3 align="left">📫 Contáctame:</h3>
 
 ###
 
@@ -78,3 +78,4 @@ Soy un estudiante de SMR en Zaragoza <br><br>
 </a>
 
 ###
+-->
