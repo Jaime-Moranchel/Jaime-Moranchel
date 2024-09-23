@@ -19,10 +19,10 @@
 ###
 
 <p align="left">
-Soy un estudiante de SMR en Zaragoza <br><br>
+Soy un estudiante de DAM en Zaragoza <br><br>
 <!-- - 🔭 I’m working as ...<br> -->
 - 📚 Actualmente estoy aprendiendo microservicios con python<br>
-- ⚡ En mi tiemepo libre me gusta mejorar mis habilidades<br>
+- ⚡ En mi tiemepo libre me gusta estudiar ciberseguridad<br>
 - 🥋 Practicante de Kyokushin
 </p>
 
