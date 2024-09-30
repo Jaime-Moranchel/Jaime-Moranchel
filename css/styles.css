@@ -8,13 +8,13 @@ body {
 }
 
 header {
-    background: transparent;
+    background: tra;
     color: #fff;
     padding: 20px 0;
     text-align: center;
 }
 
-header nav a {
+.categorias {
     color: #ccc;
     align-content: space-around;
 }
