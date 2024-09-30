@@ -14,20 +14,11 @@ header {
     text-align: center;
 }
 
-nav ul {
-    list-style: none;
-    padding: 0;
+header nav a {
+    color: #ccc;
+    align-content: space-around;
 }
 
-nav ul li {
-    display: inline;
-    margin: 0 15px;
-}
-
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-}
 
 section {
     padding: 20px;
