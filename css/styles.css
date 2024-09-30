@@ -5,6 +5,7 @@ body {
     padding: 0;
     background: #304358;
     background: radial-gradient(circle farthest-side at center center, #304358 0%, #161C3F 100%);
+    color: #ccc;
 }
 
 header {
@@ -14,20 +15,14 @@ header {
     text-align: center;
 }
 
-.categorias {
-    color: #ccc;
-    align-content: space-around;
-}
-
-
-section {
-    padding: 20px;
-    margin: 20px 0;
-    border: 1px solid #ccc;
-}
-
 a {
     text-decoration: none;
+    color: #ccc;
+    font-weight: bold;
+}
+
+section {
+  border: none;
 }
 
 footer {
@@ -37,7 +32,33 @@ footer {
     color: #fff;
 }
 
-#projects {
-
+.menu {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
 }
 
+.menu a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #ccc;
+  font-weight:bolder;
+}
+
+.menu a:hover {
+  color: #007BFF;
+}
+
+section {
+    text-align: center;
+    padding: 50px 0;
+    color: #fff;
+    
+}
+
+.entradas{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  
+}
