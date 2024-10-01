@@ -1,64 +1,89 @@
+/*Estilo general e index.html*/
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background: #304358;
-    background: radial-gradient(circle farthest-side at center center, #304358 0%, #161C3F 100%);
-    color: #ccc;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #304358;
+  background: radial-gradient(circle farthest-side at center center, #304358 0%, #161C3F 100%);
+  color: #ccc;
 }
 
 header {
-    background: tra;
-    color: #fff;
-    padding: 20px 0;
-    text-align: center;
+  background: tra;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
 }
 
 a {
-    text-decoration: none;
-    color: #ccc;
-    font-weight: bold;
+  text-decoration: none;
+  color: #ccc;
+  font-weight: bold;
 }
 
 section {
-  border: none;
+border: none;
 }
 
 footer {
-    text-align: center;
-    padding: 20px 0;
-    background: #333;
-    color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  background: #333;
+  color: #fff;
 }
 
 .menu {
-  display: flex;
-  justify-content: space-around;
-  padding: 10px 0;
+display: flex;
+justify-content: space-around;
+padding: 10px 0;
 }
 
 .menu a {
-  margin: 0 15px;
-  text-decoration: none;
-  color: #ccc;
-  font-weight:bolder;
+margin: 0 15px;
+text-decoration: none;
+color: #ccc;
+font-weight:bolder;
 }
 
 .menu a:hover {
-  color: #007BFF;
+color: #007BFF;
 }
 
 section {
-    text-align: center;
-    padding: 50px 0;
-    color: #fff;
-    
+  text-align: center;
+  padding: 50px 0;
+  color: #fff;
+  
 }
 
-.entradas{
-  width: 100px;
-  height: 100px;
-  background-color: red;
-  
+.container {
+display: flex;
+justify-content: space-around;
+}
+
+.container .box {
+width: 200px;
+height: 200px;
+background-color: #333;
+opacity: 0.5;
+background-size: cover; /* La imagen cubre todo el área del cuadro */
+background-position: center; /* Centra la imagen */
+background-repeat: no-repeat; /* Evita que la imagen se repita */
+transition: opacity 0.3s, transform 0.3s; /* Transición suave de opacidad y transformación */
+}
+
+.container .box:hover {
+background-color: #161C3F;
+opacity: 0.9; 
+transform: scale(1.2); /* Agranda el cuadro cuando está seleccionado */
+}
+
+/* Para asignar la imagen de fondo individualmente en el HTML */
+#echobot {
+background-image: url('/assets/images/echobot/2024-10-01 18_49_57-ChatGPT.png');
+}
+
+#shelltext {
+background-image: url('/assets/images/shelltext.png'); /* Cambia la URL a la de tu imagen */
 }
