@@ -21,8 +21,8 @@
 <p align="left">
 Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma en Zaragoza <br><br>
 <!-- - 🔭 I’m working as ...<br> -->
-- 📚 Actualmente estoy aprendiendo microservicios con python<br>
-- ⚡ En mi tiemepo libre me gusta estudiar ciberseguridad<br>
+- 📚 Desarrollando mi propio EDR en rust y react<br>
+- ⚡ Trabajo en seguridad en infraestructura y cumplimiento<br>
 - 🥋 Practicante de Kyokushin
 </p>
 
